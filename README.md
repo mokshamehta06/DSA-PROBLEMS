@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0041-first-missing-positive) |
+| [0205-isomorphic-strings](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
 | ------- |
