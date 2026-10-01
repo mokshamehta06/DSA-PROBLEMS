@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0041-first-missing-positive) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
