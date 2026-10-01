@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0041-first-missing-positive) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
