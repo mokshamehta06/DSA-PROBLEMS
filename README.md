@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [1903-largest-odd-number-in-string](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +57,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
