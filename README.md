@@ -26,15 +26,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -73,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
