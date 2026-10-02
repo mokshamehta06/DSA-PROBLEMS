@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
@@ -85,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
