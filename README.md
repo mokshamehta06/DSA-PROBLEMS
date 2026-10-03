@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0344-reverse-string) |
@@ -18,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0402-remove-k-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0402-remove-k-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
