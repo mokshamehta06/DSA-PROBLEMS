@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [1903-largest-odd-number-in-string](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0402-remove-k-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
