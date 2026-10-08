@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0041-first-missing-positive) |
+| [0152-maximum-product-subarray](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -120,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+| [0152-maximum-product-subarray](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
