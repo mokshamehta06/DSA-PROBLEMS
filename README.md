@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+| [1021-remove-outermost-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
