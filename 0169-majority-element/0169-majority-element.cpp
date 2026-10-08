@@ -5,14 +5,14 @@ public:
         for(int i=0;i<nums.size();i++){
             mpp[nums[i]]++;
         }
-        int maxifreq=0;
-        int ans=0;
+        int res=0;
+        int maxi=0;
         for(auto it:mpp){
-            if(it.second >maxifreq){
-                maxifreq=it.second;
-                ans=it.first;
+            if(it.second>maxi){
+                maxi=it.second;
+                res=it.first;
             }
         }
-        return ans;
+        return res;
     }
 };
