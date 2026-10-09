@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
@@ -122,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0152-maximum-product-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
