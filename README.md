@@ -133,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
