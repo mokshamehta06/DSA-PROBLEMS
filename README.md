@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/0182-duplicate-emails) |
+| [1193-monthly-transactions-i](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/1193-monthly-transactions-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/mokshamehta06/DSA-PROBLEMS/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
