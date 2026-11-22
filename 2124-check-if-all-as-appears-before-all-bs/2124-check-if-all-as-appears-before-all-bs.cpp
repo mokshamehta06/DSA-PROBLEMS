@@ -8,6 +8,7 @@ public:
              break;
          }
        } 
+       if(idx == -1) return true;
        for(int j=idx;j<s.size();j++){
         if(s[j]=='a'){
             return false;
